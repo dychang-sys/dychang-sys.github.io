@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi!I am Dongyang Chang(常东阳),a master's student at the University of Science and Technology of China. My current research interest is machine learning systems(AI infra), and I hope to tackle practical challenges in this area. I welcome academic discussions and collaborations.
+Hi!I am Dongyang Chang(常东阳),a master's student at the University of Science and Technology of China. My current research interest is machine learning systems(AI infra), and I hope to tackle practical challenges in this area. Welcome academic discussions and collaborations.
 
 
 If you would like to learn more about me, please see my CV(under construction).
