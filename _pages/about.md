@@ -6,28 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a tenure-track Associate Professor at the University of Science and Technology of China (USTC). My research is in machine learning, with an emphasis on methodology and problem-solving processes rather than on a single narrow application domain. I work across the theory, algorithms, and systems of machine learning, especially for graph-structured, temporal, and distributed learning problems. I also occasionally explore questions in computational sociology and economics.
-
-My research is guided by a three-part mission:
-
-- to identify and formalize useful structure in machine learning problems;
-- to use this structure to design more efficient, scalable, and trustworthy machine learning algorithms and systems;
-- to apply principled machine learning methods to important scientific, operational, and societal problems where better models can support better decisions.
-
-My current focus is on efficient and trustworthy AI through algorithm-system co-design, with a particular interest in scientific applications. 
-
-I completed my undergraduate studies at the University of British Columbia, where I studied computer engineering and pure mathematics. I then earned an MSc in Computer Science from the University of Toronto, where I worked on computational social networks under the supervision of Prof. Peter Marbach. I received my PhD in Computer Science from the University of Hong Kong, where I was fortunate to work with Prof. Chuan Wu on large-scale machine learning algorithms and systems, and with Prof. Difan Zou on the theoretical foundations of machine learning. 
-
-Please see my CV and Google Scholar profile for my publication record.
+Hi!I am Dongyang Chang(常东阳),a master's student at the University of Science and Technology of China. My current research interest is machine learning systems(AI infra), and I hope to tackle practical challenges in this area. I welcome academic discussions and collaborations.
 
 
-------
-
-Advertisement
-======
-I am currently looking for research assistants and postgraduate students with strong backgrounds in mathematics and programming to work with me on projects at the intersection of machine learning theory, algorithms, and systems. Topics of interest include trustworthy and efficient machine learning, algorithm-system co-design for machine learning, AI for science and operational research, data-efficient machine learning, and LLM-based agentic systems.
-
-Strong candidates may have opportunities to continue into a PhD position at USTC, or to receive mentorship, recommendations, and connections for applications to internationally recognized institutions. If you are interested in working with me, please email me with a brief introduction, your background, and the research areas or projects you would like to pursue.
+If you would like to learn more about me, please see my CV(under construction).
 
 
 
@@ -35,59 +17,40 @@ Strong candidates may have opportunities to continue into a PhD position at USTC
 
 News
 ======
-- One paper (as first author) is accepted to TMLR
-- One paper (as corresponding author) is accepted to KDD 2026
-- received Gold Reviewer Award from ICML 2026
-- will serve as a Area Chair of Neurips 2026
-- one paper (as corresponding author) is accepted to EuroSys 2026
-- two papers (one corresponding author) are accepted to ICLR 2026
-- one paper (as first author) is accepted to SIAM Journal on Mathematics of Data Science
-- one paper (as first author) is accepted to Transaction on Economic and Computation
-- will serve as an Area Chair for ICLR 2026
-- one paper (as corresponding author) is accepted to VLDB 2025
-- three papers (as first author) are accepted to ICML 2025
+- Coming soon
 
 ------
 
 Education
 ======
-- **Doctor of Philosophy (Computer Science)**  
-  University of Hong Kong  \\
-  Hong Kong PhD Fellowship Scheme (HKPFS) \\
-  University of Hong Kong Presidential Scholar
+- **Master of Electronic Information (Artificial Intelligence)**  
+  University of Science and Technology of China  
 
-- **Master of Science (Computer Science)**  
-  University of Toronto  
-
-- **Bachelor of Applied Science (Computer Engineering and Pure Mathematics)**  
-  University of British Columbia
+- **Bachelor of Engineering (Artificial Intelligence)**  
+  Northeastern University
 
 
 ------
 
 Working Projects
 ======
-1. **Trustworthy and Efficient Graph Learning**  
-   Focused on developing scalable and reliable graph learning algorithms that prioritize both performance and interpretability, with applications in large-scale networks and real-time systems.
+- Coming soon
+#1. **Trustworthy and Efficient Graph Learning**  
+   #Focused on developing scalable and reliable graph learning algorithms that prioritize both performance and #interpretability, with applications in large-scale networks and real-time systems.
 
-2. **Second-Generation Machine Learning Systems: Co-Design of Theory, Algorithms, and Systems**  
-   A project aimed at creating the next generation of machine learning systems by integrating theoretical advancements with practical system-level design, optimizing both algorithmic efficiency and system architecture.
+#2. **Second-Generation Machine Learning Systems: Co-Design of Theory, Algorithms, and Systems**  
+   #A project aimed at creating the next generation of machine learning systems by integrating theoretical advancements #with practical system-level design, optimizing both algorithmic efficiency and system architecture.
 
-3. **AI for Science and Operational Research**  
-   Exploring the intersection of artificial intelligence and scientific/operational research, this project focuses on applying machine learning methods to solve complex scientific/operational problems, ranging from computational physics to biology and environmental science.
-
-4. **Agentic System**  
-   This project seeks to better understand the dynamics of agentic and to develop mechanisms and learning algorithms that enhance the performance of agentic system.
 
 ------
 
-Professional Services
-======
-Actively serve as AC/Reviewers/Editors for the following venues: 
+#Professional Services
+#======
+#Actively serve as AC/Reviewers/Editors for the following venues: 
 
-- **Conference:** ICML, Neurips, ICLR, AISTAT, KDD, AAAI
+#- **Conference:** ICML, Neurips, ICLR, AISTAT, KDD, AAAI
 
-- **Journal:** ToN, TKDE, TKDD, TNNLS
+#- **Journal:** ToN, TKDE, TKDD, TNNLS
 
 
 
