@@ -22,7 +22,7 @@ repository               : "dychang-sys/dychang-sys.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Dongyang Chang (常东阳)"
   pronouns         : # example: "she/her"  
   bio              : "Newbie in scientific research && Tech otakus save the world"
