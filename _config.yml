@@ -23,9 +23,9 @@ repository               : "dychang-sys/dychang-sys.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Dongyang Chang (常东阳)"
+  name             : "Dongyang Chang"
   pronouns         : # example: "she/her"  
-  bio              : "Newbie in scientific research && Tech otakus save the world"
+  bio              : "Newbie in scientific research Tech otakus save the world"
   location         : "Mainland China"
   employer         : "University of Science and Technology of China"
   uri              : # URL
