@@ -25,10 +25,10 @@ main:
     
   - title: "CV"
     # url: /cv/
-    url: "/files/JunweiSu_Resume.pdf"
+   # url: "/files/JunweiSu_Resume.pdf"
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Some Guides"
-    url: https://junweisu.notion.site/Guides-2635408431c180c08573c1904383415a?source=copy_link
+  #- title: "Some Guides"
+   # url: https://junweisu.notion.site/Guides-2635408431c180c08573c1904383415a?source=copy_link
